@@ -1,0 +1,11 @@
+opencv-python
+matplotlib
+tqdm
+streamlit
+selenium
+scipy
+requests
+scikit-learn
+pandas
+pip install mediapipe==0.10.9
+numpy

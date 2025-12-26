@@ -1,3 +1,9 @@
 *.npy
 *.mp4
 *.npz
+*.jpg
+*.jpeg
+*.png
+*.gif
+*venv
+*.zip
