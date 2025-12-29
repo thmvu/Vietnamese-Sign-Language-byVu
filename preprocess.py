@@ -26,7 +26,7 @@ for video in os.listdir(VIDEO_DIR):
         if not ret:
             break
         if idx % step == 0:
-            frame = cv2.resize(frame, (320, 320))
+            frame = cv2.resize(frame, (480, 480))
             cv2.imwrite(f"{out_dir}/{saved:03d}.jpg", frame)
             saved += 1
         idx += 1

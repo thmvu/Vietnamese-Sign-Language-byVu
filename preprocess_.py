@@ -13,7 +13,7 @@ LABEL_MAP_PATH = "Logs/label_map.json"
 OUTPUT_DIR = "Data"
 
 SEQUENCE_LEN = 60
-FEATURE_DIM = 201
+FEATURE_DIM = 258
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
