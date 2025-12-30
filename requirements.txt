@@ -1,11 +1,8 @@
-opencv-python
-matplotlib
-tqdm
-streamlit
-selenium
-scipy
-requests
-scikit-learn
-pandas
-pip install mediapipe==0.10.9
-numpy
+tensorflow==2.15.0
+keras==2.15.0
+protobuf==3.20.3
+mediapipe==0.10.9
+opencv-python==4.8.1.78
+numpy==1.24.3
+scikit-learn==1.3.2
+streamlit==1.29.0
